@@ -3,7 +3,7 @@
 Computer engineering student at Polytechnique Montreal
 
 ## 📜 `Resume`
-[English](https://raw.githubusercontent.com/XavierDupuis/xavierdupuis.github.io/main/ressources/resume/en.pdf) / [French](https://raw.githubusercontent.com/XavierDupuis/xavierdupuis.github.io/main/ressources/resume/fr.pdf)
+[Français](https://raw.githubusercontent.com/XavierDupuis/xavierdupuis.github.io/main/ressources/resume/fr.pdf) / [English](https://raw.githubusercontent.com/XavierDupuis/xavierdupuis.github.io/main/ressources/resume/en.pdf)
 
 ## 🚀 `Interests`
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
