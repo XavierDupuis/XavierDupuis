@@ -21,7 +21,7 @@ Computer engineering student at Polytechnique Montreal
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/XavierDupuis)
 
 ## 💻 `Skills`
-[![Desktop](https://skillicons.dev/icons?i=docker,kotlin,ts,angular,mongodb,firebase,java,py,cpp,cs,jenkins,kubernetes,gitlab,react,nodejs,webpack,js,html,css,postgres,redis&perline=7)](https://skillicons.dev)
+[![Desktop](https://skillicons.dev/icons?i=docker,kotlin,ts,angular,mongodb,java,py,cpp,cs,gitlab,nodejs,js,html,css&perline=7)](https://skillicons.dev)
 
 ## 🛠 `Tools`
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
