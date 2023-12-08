@@ -42,10 +42,9 @@ Computer engineering student at Polytechnique Montreal
   
   <a href="https://xavierdupuis.github.io/Wortschatz/">![Wortschatz](https://github-readme-stats.vercel.app/api/pin/?username=XavierDupuis&repo=Wortschatz&theme=blueberry&show_owner=true)</a>
   <a href="https://github.com/XavierDupuis-Polytechnique/BluetoothDetector-INF8405/releases/tag/2.0">![BluetoothDetector](https://github-readme-stats.vercel.app/api/pin/?username=XavierDupuis-Polytechnique&repo=BluetoothDetector-INF8405&theme=blueberry&show_owner=true)</a>
-  <a href="https://xavierdupuis.github.io/Hackatown2021/">![SaveMyPlant](https://github-readme-stats.vercel.app/api/pin/?username=XavierDupuis-Polytechnique&repo=Hackatown2021&theme=blueberry&show_owner=true)</a>
+  <a href="https://xavierdupuis-polytechnique.github.io/Hackatown2021/">![SaveMyPlant](https://github-readme-stats.vercel.app/api/pin/?username=XavierDupuis-Polytechnique&repo=Hackatown2021&theme=blueberry&show_owner=true)</a>
   <a href="https://devpost.com/software/findmyfoog">![FindMyFood](https://github-readme-stats.vercel.app/api/pin/?username=XavierDupuis-Polytechnique&repo=Hackatown2022&theme=blueberry&show_owner=true)</a>
 </details>
-
 <details>
   <summary>⚡ Github Stats</summary>
   
