@@ -13,7 +13,7 @@ Computer engineering student at Polytechnique Montreal
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌐 `Socials`
-[![Mail](https://img.shields.io/badge/Mail-003E54?style=for-the-badge&logo=Mailt&logoColor=white)](mailto:dupuis-xavier@outlook.com)
+[![Mail](https://img.shields.io/badge/Mail-003E54?style=for-the-badge&logo=Mailt&logoColor=white)](mailto:github-xavierdupuis@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xavier-dupuis)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/xavier0978)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XavierDupuis)
